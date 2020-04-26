@@ -1,0 +1,10 @@
+Hava,Sicaklik,Nem,Ruzgar,BOynama
+Yağmurlu,Yüksek,Yüksek,Hayır,Hayır
+Yağmurlu,Yüksek,Yüksek,Evet,Hayır
+Kapalı,Yüksek,Yüksek,Hayır,Evet
+Güneşli,Normal,Yüksek,Hayır,Evet
+Güneşli,Serin,Normal,Hayır,Evet
+Güneşli,Serin,Normal,Evet,Hayır
+Yağmurlu,Normal,Yüksek,Hayır,Evet
+Yağmurlu,Serin,Normal,Hayır,Evet
+Güneşli,Normal,Normal,Hayır,Evet
